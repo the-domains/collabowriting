@@ -1,0 +1,28 @@
+name: CollaboWriting
+favicon: null
+layout_spectrum: 0.21798122231848538
+typography_spectrum: 0.13775092898868024
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.0037078612949699163
+  lightness: 0.5137807165738195
+  saturation: 0.278975983383134
+  rhythmicContrast: 0.6009329601656646
+purpose: []
